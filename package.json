@@ -33,6 +33,9 @@
     "sonner": "^2.0.7",
     "tailwind-merge": "^3.4.0"
   },
+  "overrides": {
+    "next": "latest"
+  },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
     "@tailwindcss/postcss": "^4",
